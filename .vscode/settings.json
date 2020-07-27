@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string": "cpp"
+    },
+    "[cpp]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.wordWrap": "off",
+        "editor.renderWhitespace": "all",
+        "editor.acceptSuggestionOnEnter": "off",
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 4, ColumnLimit: 125 }"
+}
